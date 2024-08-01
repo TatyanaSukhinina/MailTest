@@ -1,0 +1,2 @@
+# MailTest
+Selenium + Pytest + PageObject
